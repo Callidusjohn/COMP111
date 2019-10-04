@@ -73,12 +73,6 @@
     <Compile Include="ASSETS\SampleScenes\SCRIPTS\SlowMoButton.cs" />
     <None Include="ASSETS\TEXTURES\TEXTURES\readme.txt" />
     <None Include="ASSETS\SampleScenes\SHADERS\Skybox-Procedural.shader" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -87,6 +81,12 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -118,6 +118,12 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
@@ -129,12 +135,6 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/John K/Desktop/Uni_Surface/Year 3/Sem 2/COMP111 - Introduction to Video Games/comp111-vcs-prac-Callidusjohn/COMP111_3D_practicals/3D_PRACS/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
